@@ -1,9 +1,8 @@
 # ngmh
 ### 💫 About Me:
-I'm a developer from Singapore, studying Computer Science (soon)
+I'm a developer from Singapore, studying Computer Science at the National University of Singapore.
 
 ### 🔭 I’m currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinkertanker&repo=T-Krobot-Discord-Bot-JS&theme=dark)](https://github.com/tinkertanker/T-Krobot-Discord-Bot-JS)
 
 ### 🛠️ Some Past Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenNuode&repo=hafFULLhafempty&theme=dark)](https://github.com/ChenNuode/hafFULLhafempty)
